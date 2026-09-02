@@ -44,7 +44,6 @@ Throughout my career, I have stepped up to **lead multiple cross-functional team
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
       <br/>
-      <img src="https://img.shields.io/badge/State-Zustand-444444?style=flat-square" alt="Zustand"/>
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
     </td>
   </tr>
