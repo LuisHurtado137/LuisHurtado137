@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Luis | QA Automation Engineer & Frontend Developer
+# Hi, I'm Luis | QA Automation Engineer & Frontend Developer
 
 <p align="center">
   <img src="https://img.shields.io/badge/QA%20Automation-Mid--Level-3a86ff?style=for-the-badge&logo=playwright&logoColor=white" alt="QA Automation Mid"/>
@@ -11,7 +11,7 @@
 
 ### 🚀 About Me
 
-QA Enginerr with **over 3 years of experience** bridging the gap between Quality Assurance and modern Frontend Engineering. My unique dual profile allows me to build elegant, high-performing user interfaces with an automation-first mindset, ensuring optimal quality control right from the first line of code.
+QA Engineer with **over 4 years of experience** bridging the gap between Quality Assurance and modern Frontend Engineering. My unique dual profile allows me to build elegant, high-performing user interfaces with an automation-first mindset, ensuring optimal quality control right from the first line of code.
 
 Throughout my career, I have stepped up to **lead multiple cross-functional teams**, streamlining QA workflows, architecting automation frameworks from scratch, and collaborating closely with engineering chapters to accelerate delivery timelines safely.
 
@@ -30,7 +30,6 @@ Throughout my career, I have stepped up to **lead multiple cross-functional team
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS"/>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TS"/>
       <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright"/>
-      <img src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" alt="Cypress"/>
       <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium"/>
       <br/>
       <img src="https://img.shields.io/badge/API%20Testing-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
